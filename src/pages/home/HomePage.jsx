@@ -157,7 +157,7 @@ const LandingPage = () => {
             transition={{ duration: 0.8 }}
           >
             <h1 className="text-6xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-purple-600 to-pink-600 mb-6 tracking-tight">
-              Model Matrimony
+              Ai model compatibility
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
               Find your perfect LLM match with our intelligent matchmaking system.
@@ -260,7 +260,7 @@ const LandingPage = () => {
         {
           name: "Alex Johnson",
           role: "AI Researcher",
-          comment: "Model Matrimony helped me find the ideal LLM for my research project in record time!"
+          comment: "Ai model compatibility helped me find the ideal LLM for my research project in record time!"
         },
         {
           name: "Samantha Lee",
@@ -312,19 +312,19 @@ const LandingPage = () => {
       >
         Success Stories
       </motion.h2>
-      <p className="text-gray-600">Read how Model Matrimony transformed businesses</p>
+      <p className="text-gray-600">Read how Ai model compatibility transformed businesses</p>
     </div>
     
     <div className="grid md:grid-cols-2 gap-12">
       {[
         {
           company: "TechInnovate",
-          quote: "Model Matrimony's recommendations led to a 40% improvement in our NLP tasks.",
+          quote: "Ai model compatibility's recommendations led to a 40% improvement in our NLP tasks.",
           person: "Emily Watson, CTO"
         },
         {
           company: "AI Solutions Co.",
-          quote: "We reduced our model selection time by 70% thanks to Model Matrimony.",
+          quote: "We reduced our model selection time by 70% thanks to Ai model compatibility.",
           person: "David Park, Lead AI Engineer"
         }
       ].map((testimonial, index) => (

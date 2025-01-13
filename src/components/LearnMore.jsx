@@ -11,13 +11,13 @@ const LearnMorePage = () => {
           Back to Home
         </Link>
 
-        <h1 className="text-4xl font-bold mb-8">Learn More About Model Matrimony</h1>
+        <h1 className="text-4xl font-bold mb-8">Learn More About Ai model compatibility</h1>
 
         <div className="grid md:grid-cols-2 gap-12">
           <div>
             <h2 className="text-2xl font-semibold mb-4">Our Mission</h2>
             <p className="text-gray-600 mb-6">
-              At Model Matrimony, we're on a mission to simplify the process of finding the perfect Language Model for your specific needs. We understand that choosing the right LLM can be a daunting task, given the rapid advancements in AI technology. That's why we've created an intelligent platform that matches you with the ideal model based on your unique requirements.
+              At Ai model compatibility, we're on a mission to simplify the process of finding the perfect Language Model for your specific needs. We understand that choosing the right LLM can be a daunting task, given the rapid advancements in AI technology. That's why we've created an intelligent platform that matches you with the ideal model based on your unique requirements.
             </p>
             <h2 className="text-2xl font-semibold mb-4">How It Works</h2>
             <ul className="space-y-4">

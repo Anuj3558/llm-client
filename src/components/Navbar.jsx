@@ -12,7 +12,7 @@ export const Navbar = ({ user, onLogout }) => {
             <div className="flex items-center">
               <a href="/" className="flex items-center">
                 <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-purple-600 to-pink-600">
-                  Model Matrimony
+                  Ai model compatibility
                 </span>
               </a>
             </div>
